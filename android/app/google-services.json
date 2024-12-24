@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858468141895",
+    "project_id": "reslovehub",
+    "storage_bucket": "reslovehub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858468141895:android:d86125da64ad51db5a9a62",
+        "android_client_info": {
+          "package_name": "com.example.resolvehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO0g7_uE4lP1z2X8ZDQwjgiXaeCuyKeO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
